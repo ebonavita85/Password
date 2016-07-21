@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Password</string>
+    <string name="blank"></string>
+    <string name="menu_txt_add_password">Aggiungi</string>
+    <string name="menu_txt_lista_password">Lista password</string>
+    <string name="menu_txt_export">Backup</string>
+    <string name="menu_txt_import">Ripristina Backup</string>
+    <string name="menu_txt_change_codice_sblocco">Cambia Codice Sblocco</string>
+    <string name="label_nome">Nome</string>
+    <string name="label_password">Password</string>
+    <string name="btn_salva">Salva</string>
+    <string name="toast_insert_ok">Inserimento avvenuto correttamente</string>
+    <string name="toast_insert_failed">Impossibile effettuare l\'inserimento</string>
+    <string name="progress_dialog_avvio">Starting operation&#8230;</string>
+    <string name="msg_export_ok">Backup effettuato con successo</string>
+    <string name="msg_export_failed">Backup fallito</string>
+    <string name="chooser_title">Scegli File da importare</string>
+    <string name="msg_import_ok">Ripristino Backup completato con successo</string>
+    <string name="msg_import_failed">Impossibile effettuare Import</string>
+    <string name="title_activity_elenco_activity">Elenco Password</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="title_remove_password">Rimuovi password</string>
+    <string name="msg_remove_password">Sei sicuro di voler cancellare la Password?</string>
+    <string name="nessuna_password_salvata">Non ci sono password salvate!</string>
+    <string name="toast_update_ok">Aggiornamento avvenuto con successo</string>
+    <string name="toast_update_failed">Impossibile effettuare la modifica!</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_codice_sblocco">Codice sblocco</string>
+    <string name="message_codice_sblocco">Il codice di sblocco (%s cifre) ti consentirà di accedere a tutte le password che hai memorizzato. Chi non conosce questo codice non può accedere!</string>
+    <string name="tx_login">Codice sblocco</string>
+
+</resources>
