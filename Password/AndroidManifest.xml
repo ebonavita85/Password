@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="it.bonavita.password"
-    android:versionCode="2"
-    android:versionName="1.0.1" >
-
-    <uses-sdk
-        android:minSdkVersion="14"
-        android:targetSdkVersion="17" />
+    package="it.bonavita.password">
 
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
     
